@@ -8,5 +8,5 @@ def kök(a,b,c):
     else:
         print("iki farklı kökü vardır.")
 
-#y=1*x**2+5*x-4
+# y=1*x**2+5*x-4
 kök(1,5,4)
